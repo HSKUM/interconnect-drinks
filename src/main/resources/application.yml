@@ -1,0 +1,10 @@
+server:
+  port: ${PORT:8081}
+
+interconnect17:
+  drinks:
+    type: drinks
+    menu:
+      - Water
+      - Coke
+      - Orange Juice
