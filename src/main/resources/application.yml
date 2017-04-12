@@ -5,6 +5,6 @@ interconnect17:
   drinks:
     type: drinks
     menu:
-      - Water
-      - Coke
-      - Orange Juice
+      - Water_new
+      - Coke_new
+      - Orange Juice_new
